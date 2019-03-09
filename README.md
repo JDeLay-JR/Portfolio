@@ -2,4 +2,4 @@
 
 ## Technologies
 
-Bootstrapped using the `gatsby-starter-strata`.
+Bootstrapped using the `gatsby-starter-strata`.``
